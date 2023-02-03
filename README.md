@@ -6,3 +6,6 @@
 ##### You can see after patching `JE` to `JNE` using windbg , the Error branching is forced and AMSI is patched :
 
 ![image](https://user-images.githubusercontent.com/123980007/216671477-b7a4eaba-b62d-4196-97f9-9fcc6daf0450.png)
+
+
+![image](https://user-images.githubusercontent.com/123980007/216676689-14f1187a-2709-4ada-9b09-f7a76bc9fd06.png)
